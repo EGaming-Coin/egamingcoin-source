@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/egamingcoin_ar.qm</file>
+        <file alias="bg">locale/egamingcoin_bg.qm</file>
+        <file alias="de">locale/egamingcoin_de.qm</file>
+        <file alias="en">locale/egamingcoin_en.qm</file>
+        <file alias="es">locale/egamingcoin_es.qm</file>
+        <file alias="fi">locale/egamingcoin_fi.qm</file>
+        <file alias="fr">locale/egamingcoin_fr.qm</file>
+        <file alias="it">locale/egamingcoin_it.qm</file>
+        <file alias="ja">locale/egamingcoin_ja.qm</file>
+        <file alias="ko">locale/egamingcoin_ko.qm</file>
+        <file alias="nl">locale/egamingcoin_nl.qm</file>
+        <file alias="pl">locale/egamingcoin_pl.qm</file>
+        <file alias="pt">locale/egamingcoin_pt.qm</file>
+        <file alias="ro">locale/egamingcoin_ro.qm</file>
+        <file alias="ru">locale/egamingcoin_ru.qm</file>
+        <file alias="sk">locale/egamingcoin_sk.qm</file>
+        <file alias="th">locale/egamingcoin_th.qm</file>
+        <file alias="tr">locale/egamingcoin_tr.qm</file>
+        <file alias="vi">locale/egamingcoin_vi.qm</file>
+        <file alias="zh_CN">locale/egamingcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/egamingcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

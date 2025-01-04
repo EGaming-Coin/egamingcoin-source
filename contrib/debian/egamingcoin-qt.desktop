@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=EGamingCoin Core
+Comment=EGamingCoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem EGamingCoin peer-to-peer Netzwerk
+Comment[fr]=EGamingCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EGamingCoin, eşten eşe kriptografik sanal para birimi
+Exec=egamingcoin-qt %u
+Terminal=false
+Type=Application
+Icon=egamingcoin128
+MimeType=x-scheme-handler/egamingcoin;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=EGamingCoin-qt

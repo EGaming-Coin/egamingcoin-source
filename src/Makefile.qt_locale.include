@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/egamingcoin_ar.ts \
+  qt/locale/egamingcoin_bg.ts \
+  qt/locale/egamingcoin_de.ts \
+  qt/locale/egamingcoin_en.ts \
+  qt/locale/egamingcoin_es.ts \
+  qt/locale/egamingcoin_fi.ts \
+  qt/locale/egamingcoin_fr.ts \
+  qt/locale/egamingcoin_it.ts \
+  qt/locale/egamingcoin_ja.ts \
+  qt/locale/egamingcoin_ko.ts \
+  qt/locale/egamingcoin_nl.ts \
+  qt/locale/egamingcoin_pl.ts \
+  qt/locale/egamingcoin_pt.ts \
+  qt/locale/egamingcoin_ro.ts \
+  qt/locale/egamingcoin_ru.ts \
+  qt/locale/egamingcoin_sk.ts \
+  qt/locale/egamingcoin_th.ts \
+  qt/locale/egamingcoin_tr.ts \
+  qt/locale/egamingcoin_vi.ts \
+  qt/locale/egamingcoin_zh_CN.ts \
+  qt/locale/egamingcoin_zh_TW.ts

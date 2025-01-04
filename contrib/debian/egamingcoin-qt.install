@@ -1,0 +1,6 @@
+usr/local/bin/egamingcoin-qt usr/bin
+share/pixmaps/egamingcoin32.xpm usr/share/pixmaps
+share/pixmaps/egamingcoin16.xpm usr/share/pixmaps
+share/pixmaps/egamingcoin128.png usr/share/pixmaps
+debian/egamingcoin-qt.desktop usr/share/applications
+debian/egamingcoin-qt.protocol usr/share/kde4/services/
